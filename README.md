@@ -1,7 +1,5 @@
 # Pass Knowledge Test for New Jersey Driving Licence 
 
-Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
-
 ### Collaboration
 
 Pan Li pl1989@nyu.edu
