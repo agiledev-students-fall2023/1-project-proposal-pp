@@ -2,34 +2,34 @@
 
 Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
 
-## Collaboration
+### Collaboration
 
-You are welcome to write a proposal with up to 5 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal.
-
-## What to include
-
-Your proposal must focus on the product's value proposition, including answers to the questions below. Keep it thorough but concise. If you are not clear on whether your writing is any good, consult with a friend.
-
-### Project title
-
-Give your project a nice title.
+Pan Li pl1989@nyu.edu
 
 ### What and why?
+Although resources for reviewing the knowledge test for auto driving licence is avaiable, there's no formatted web app that help people prepare the knowledge test that every applicant for driving licence in New Jersey will take. We would like to build a webapp that focuses on helping student driver in New Jersey to create their personalized test that reduces the error rate of certain part in the knowledge test and saves the time for learners because the materials avaible online are disorganized. It solves the problem of learning new knowledge and reviewing by providing instant message and individualized recommendations.
+ 
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
 
 ### For whom?
 
-Who will this software be for? These people are your end-users or customers.
+All learners who are the first time to apply driving licence in New Jersey.
 
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
 
 ### How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+User are able to create their account to save the history of questions answered or not
+
+User can access to the invidualized test that based on the analysis of the part of incorrect questions
+
+User can choose bilingual langauges when in their practice test
+
+User can open the "review mode" that rank the incorrect questions by the aspect of knowledge
+
+User are allowed to share and comment the web app
+
+User can exploit the "test mode", imitating the real test that covers different aspects of knowldge 
 
 ### Scope
 
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+The web app can be divided into several parts based on developers' interest and talent. Each developer can be responsible for certain mode and certain feature. Though the development task can be divided, each feature requires effort to complete and collaborations among developers to combine the functions.
